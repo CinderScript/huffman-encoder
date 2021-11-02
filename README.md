@@ -25,6 +25,9 @@ repository executable: Huffman-Encoder
 <br><br>
 
 This exercise comes from Data Structures II from SPU:
+```diff
+@@ Score: 179/100 Points @@
+```
 
 <br><br>
 
